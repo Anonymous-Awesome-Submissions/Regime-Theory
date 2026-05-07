@@ -1,0 +1,21 @@
+# Core scientific stack
+numpy>=1.26
+scipy>=1.11
+scikit-learn>=1.4
+pandas>=2.0
+matplotlib>=3.7
+
+# HuggingFace stack (used for action generation, judge, and benchmark loading)
+torch>=2.1
+torchvision>=0.16
+transformers>=4.40
+datasets>=2.18
+accelerate>=0.27
+sentence-transformers>=2.5
+Pillow>=10.0
+
+# VLM-specific
+qwen-vl-utils>=0.0.8
+
+# Utility
+tqdm>=4.66
