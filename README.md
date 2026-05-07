@@ -1,7 +1,5 @@
 # A Regime Theory of Controller Class Selection for LLM Action Decisions
 
-This paper has been submitted to NeurIPS 2026.
-
 ![Lattice of policy classes](fig_hierarchy_nested.png)
 
 ## Project Structure
